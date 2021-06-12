@@ -1,9 +1,11 @@
 # ThemedControls
-**A suite of controls created to improve the UI of your Visual FoxPro applications.**
+**为改善 Visual FoxPro 应用程序 UI 而创建的一套控件。**
 
-Project Manager: Emerson Santon Reed ([emerson_reed@hotmail.com](mailto:emerson_reed@hotmail.com))
+翻译：xinjie  2021.06.12
 
-**OutlookNavBar**, formerly known as the Outlook2003Bar, is a very cool component included in this suite. It resembles the Outlook panel interface, making it perfect for grouping similar items in an application's UI. You’ll find working with the OutlookNavBar similar to working with a pageframe. It’s incredibly easy to use, and I think you'll agree that the results are amazing.
+项目经理: Emerson Santon Reed ([emerson_reed@hotmail.com](mailto:emerson_reed@hotmail.com))
+
+**OutlookNavBar**， 其前身为 Outlook2003Bar，是这套控件中非常酷的一个控件。它类似 Outlook 的面板，非常适合在应用程序的 UI 中对相似的项目进行分组。你会发现使用它类似于使用 pagframe。它非常容易使用，我想你会对惊叹于它的表现。
 
 ![](ThemedControls_OutlookNavBar.png)
 
