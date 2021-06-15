@@ -35,3 +35,7 @@
 [ThemedControls video](ThemedControls_ThemedControls.wmv)
 
 VCX 文件夹中的 ThemedControlsHelp.htm 文件，描述了更多关于如何使用 ThemedControls 的信息（除了Ribbon）。
+
+**译者注：**
+***ThemedControls*** 文件夹中为 3.5.8 版（原版）
+***ThemedControls_3.5.9*** 文件夹中为译者在 3.5.8 版基础上的修改版本
