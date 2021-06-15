@@ -1,7 +1,7 @@
 # ThemedControls
 **为改善 Visual FoxPro 应用程序 UI 而创建的一套控件。**
 
-翻译：xinjie  2021.06.12
+翻译：xinjie  2021.06.12 - 2021.6.15
 
 项目经理: Emerson Santon Reed ([emerson_reed@hotmail.com](mailto:emerson_reed@hotmail.com))
 
@@ -9,29 +9,29 @@
 
 ![](ThemedControls_OutlookNavBar.png)
 
-**Buttons**, a button class with two different styles (not finished yet).
+**Buttons**, 具有两种风格的按钮类（尚未完成）。
 
 ![](ThemedControls_ThemedButton.png)
 
-**ExplorerBar**, a bar with group panels just like Windows XP.
+**ExplorerBar**, XP 样式的具有分组的面板。
 
 ![](ThemedControls_ThemedExplorerBar.png)
 
-**ToolBox**, a toolbar (similar to the new VFP ToolBox), with expand/collapse panels capability.
+**ToolBox**, 工具栏（类似于新的 VFP ToolBox），可以进行折叠或者展开。
 
 ![](ThemedControls_ToolBox.png)
 
-Another cool control in this suite is the **ZoomNavBar**. The current button is "zoomed" when the mouse passes over it and you can add a "menu" to be displayed when button is clicked.
+套件中另一个很酷的类是 **ZoomNavBar**. 当鼠标经过按钮时，按钮会被“放大”，并且，在点击按钮时，还可以显示一个“菜单”。
 
 ![](ThemedControls_ZoomNavBar1.png)
 
 ![](ThemedControls_ZoomNavBar2.png)
 
-**Ribbon**, a new menu style just like the one in Microsoft Office 2007 (not finished yet).
+**Ribbon**, 类似于 Microsoft Office 2007 风格的菜单（尚未完成）。
 
 ![](ThemedControls_Ribbon.png)
 
-Here you can see a sample video showing some **ThemedControls** features.
+这里有一个视频，展示一些 **ThemedControls** 特性。
 [ThemedControls video](ThemedControls_ThemedControls.wmv)
 
-Check the ThemedControlsHelp.htm file in VCX folder for more information on how to use ThemedControls (except for Ribbon that isn't documented yet).
+VCX 文件夹中的 ThemedControlsHelp.htm 文件，描述了更多关于如何使用 ThemedControls 的信息（除了Ribbon）。
